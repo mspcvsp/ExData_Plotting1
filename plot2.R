@@ -149,5 +149,6 @@ png("./figure/plot2.png",
     height=480)
 with(powerConsumption,plot(Global_active_power ~ Date,
                            type="l",
+                           xlab="",
                            ylab="Global Active Power (kilowatts)"))
 dev.off()
