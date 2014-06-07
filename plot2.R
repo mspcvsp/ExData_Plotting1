@@ -1,4 +1,4 @@
-# Generates a time series plot of Global Active Power (kilowatts) as a function
+# Generates a time series plot of global active power (kilowatts) as a function
 # of time from the University of California, Irvine Machine Learning Repository 
 # Individual Household Electric Power Consumption Data Set
 # 
