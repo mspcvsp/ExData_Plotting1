@@ -1,3 +1,14 @@
+# Generates a histogram of the global active power (kilowatts) from the
+# University of California, Irvine Machine Learning Repository Individual
+# Household Electric Power Consumption Data Set
+# 
+# http://archive.ics.uci.edu/ml/datasets/
+#   Individual+household+electric+power+consumption
+#
+# Bache, K. & Lichman, M. (2013). UCI Machine Learning Repository 
+#   [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, 
+#   School of Information and Computer Science.
+#
 # R programming style guide reference:
 # -----------------------------------
 # https://google-styleguide.googlecode.com/svn/trunk/Rguide.xml
